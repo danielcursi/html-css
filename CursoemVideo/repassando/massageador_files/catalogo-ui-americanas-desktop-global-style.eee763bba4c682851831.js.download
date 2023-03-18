@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[6265],{50859:(o,t,n)=>{n.r(t),n.d(t,{default:()=>e});const e=(0,n(56875).vJ)(["body{color:#666;background:#f1f1f1;font-family:",";-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}a{text-decoration:none;color:#666;}"],(function(o){return o.theme.fontFamily}))}}]);
+//# sourceMappingURL=catalogo-ui-americanas-desktop-global-style.eee763bba4c682851831.js.map

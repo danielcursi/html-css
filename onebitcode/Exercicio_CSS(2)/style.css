@@ -1,0 +1,23 @@
+.post-container{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fffafa;
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+    
+}
+
+.post{
+    padding: 20px 40px;
+}
+
+h3{
+    font-family: "Roboto";
+    color: #008080;
+    font-size: 18px;
+}
+
+h1{
+    font-family: "Montserrat";
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+li{
+    color: green;
+}
+h1{
+    color: purple;
+    border-color: yellow;
+    border-width: 2px;
+    border-style: dashed;
+}
+
+body{
+    background-image: url(20190412091144-1536x977.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
